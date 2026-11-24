@@ -1,0 +1,42 @@
+Product Launch Review — HealthTrack Wearable
+Date: November 22, 2026
+Time: 10:00 AM – 11:00 AM
+Platform: Microsoft Teams
+
+Attendees:
+- Nisha Kapoor (Product Manager)
+- Amit Roy (Engineering Lead)
+- Divya Sharma (QA Lead)
+- Rohit Singh (Marketing Manager)
+- Preet Kaur (Customer Success Manager)
+
+Nisha: Morning everyone. We're four weeks away from the HealthTrack wearable launch. Let's review readiness across all teams. Amit, how's the product?
+
+Amit: Hardware is finalized and in production. Firmware version 2.3 is stable — we fixed the battery drain issue from last week. App integration is 95% complete. The remaining 5% is the sleep tracking sync, which Divya is testing.
+
+Divya: Sleep tracking sync is working on Android. iOS has an intermittent Bluetooth disconnect bug. I expect it to be resolved by November 26th. Overall, 142 test cases passed, 3 open bugs — all low priority.
+
+Nisha: Rohit, what's the marketing status?
+
+Rohit: Pre-launch campaign is live. We have 8,500 sign-ups for the early access list. Social media content is ready for the launch week. We're partnering with 3 health influencers — posts go live December 1st. Amazon and Flipkart listings are live with launch date December 20th.
+
+Nisha: Preet, customer success?
+
+Preet: Support team trained on product FAQs. Help center articles are ready. We're setting up a dedicated WhatsApp support line for the first month. Replacement and return policy is finalized — 30-day no-questions-asked return.
+
+Decisions:
+1. Launch date confirmed: December 20, 2026.
+2. iOS Bluetooth bug must be fixed before December 10th — hard deadline.
+3. Final firmware version to be locked by December 5th.
+4. Marketing go-live for influencer posts: December 1st.
+5. Emergency rollback plan to be documented by Amit by November 30th.
+
+Nisha: Anything blocking the launch?
+
+Amit: If the iOS bug isn't fixed by November 26th, I may need an extra iOS developer. I'll flag it then.
+
+Nisha: Fair enough. Let's do a final readiness check on December 12th. Same team, same time.
+
+Rohit: Can we get product samples for the influencers by November 28th?
+
+Nisha: Yes, Amit will coordinate with the production team to dispatch 5 units by November 27th.

@@ -1,0 +1,47 @@
+Budget Review Meeting — Q4 FY2027
+Date: November 19, 2026
+Time: 3:00 PM – 4:00 PM
+Location: Finance Department, Room 204
+
+Attendees:
+- Deepak Nair (CFO)
+- Sangeetha Rao (Finance Manager)
+- Arvind Patel (Department Head — Operations)
+- Lata Krishnan (Department Head — Marketing)
+- Yash Mehta (IT Manager)
+
+Deepak: Good afternoon. Let's review the Q4 budget utilization and plan for year-end. Sangeetha, please walk us through the numbers.
+
+Sangeetha: Sure. Total Q4 budget is INR 85 lakhs. As of today, we've utilized INR 62 lakhs, which is 73%. Operations has used 90% of their allocation, Marketing is at 65%, and IT is at 55%.
+
+Deepak: Arvind, your team is close to the limit. Any overruns expected?
+
+Arvind: We have one pending vendor payment of INR 4 lakhs for machinery maintenance. That will push us slightly over. I'll need a reallocation of INR 2 lakhs.
+
+Deepak: Lata, can Marketing spare INR 2 lakhs?
+
+Lata: Yes, we have a campaign that's been deferred to January. We can reallocate INR 2 lakhs from the digital marketing budget.
+
+Deepak: Agreed. Sangeetha, please process that reallocation today.
+
+Yash: I'd like to flag that our cloud infrastructure contract renewal is due December 31st. The vendor has quoted INR 8 lakhs for the next year — a 12% increase from last year.
+
+Deepak: That's significant. Can we negotiate?
+
+Yash: I'll attempt to negotiate it down. I'll come back with a counter-proposal by November 25th.
+
+Decisions:
+1. INR 2 lakh reallocation approved from Marketing to Operations budget.
+2. IT department authorized to negotiate cloud contract renewal.
+3. Year-end financial report to be submitted by December 28, 2026.
+4. Next budget review scheduled for January 10, 2027.
+
+Deepak: Sangeetha, please also prepare the year-end variance report for the board meeting.
+
+Sangeetha: I'll have that ready by December 20th.
+
+Deepak: Good. Any other items?
+
+Lata: We need to finalize the annual marketing budget for FY2028 by January 15th. I'll circulate a draft for review by December 30th.
+
+Deepak: Noted. Let's wrap up. Great work, team.

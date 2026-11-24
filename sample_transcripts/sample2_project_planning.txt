@@ -1,0 +1,45 @@
+Project Planning Meeting — EduTrack Mobile App
+Date: November 18, 2026
+Time: 2:00 PM – 3:30 PM
+Location: Conference Room B
+
+Attendees:
+- Meera Joshi (Project Manager)
+- Karan Mehta (Lead Developer)
+- Suresh Pillai (UI/UX Designer)
+- Fatima Sheikh (Business Analyst)
+- Ravi Kumar (Database Architect)
+
+Meera: Welcome everyone. Today we're planning the EduTrack mobile app project. Fatima, can you walk us through the requirements?
+
+Fatima: Sure. The app needs student attendance tracking, grade management, parent-teacher messaging, and a timetable viewer. Priority is attendance and grades for the MVP.
+
+Meera: Based on that, what's our tech stack recommendation, Karan?
+
+Karan: I recommend React Native for cross-platform, Node.js backend, and PostgreSQL for the database. Firebase for push notifications.
+
+Ravi: Agreed on PostgreSQL. I'll need to design the schema for multi-school support. That'll take about a week.
+
+Suresh: I'll start with wireframes for the student dashboard and attendance screens. Can I get the finalized requirements document from Fatima?
+
+Fatima: I'll have it ready by Friday, November 22nd.
+
+Decisions:
+1. MVP scope confirmed: attendance tracking + grade management only.
+2. Tech stack approved: React Native, Node.js, PostgreSQL, Firebase.
+3. Project deadline set for February 15, 2027.
+4. Weekly progress reviews every Monday at 2 PM.
+5. Karan will set up the GitHub repository and CI/CD pipeline.
+
+Action items:
+- Ravi to complete database schema design by November 25.
+- Suresh to deliver wireframes for 5 core screens by November 29.
+- Fatima to send finalized requirements doc by November 22.
+- Karan to set up the project repository and dev environment by November 22.
+- Meera to schedule the kickoff meeting with the client for November 25.
+
+Meera: Any concerns?
+
+Karan: We may need an extra developer for the backend. I'll flag it if needed after reviewing the schema.
+
+Meera: Noted. I'll keep a resource buffer. Let's reconvene next Monday.

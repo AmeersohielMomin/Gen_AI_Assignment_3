@@ -1,0 +1,45 @@
+Client Call — Website Redesign Project
+Date: November 21, 2026
+Time: 11:00 AM
+Platform: Zoom
+
+Attendees:
+- Sarah Thompson (Client — CEO, GreenLeaf Organics)
+- Tom Baker (Client — Marketing Head, GreenLeaf Organics)
+- Nikhil Desai (Account Manager, WebCraft Agency)
+- Pooja Reddy (Lead Designer, WebCraft Agency)
+
+Nikhil: Good morning Sarah, Tom. Thanks for joining. We're here to review the design mockups and discuss next steps.
+
+Sarah: Of course. We've had a chance to look at the mockups. Overall we love the clean look. The green color palette is perfect for our brand.
+
+Tom: My only concern is the homepage hero section. The image feels generic. We want something that showcases our actual farm and products.
+
+Pooja: Completely understood. We can replace the stock photo with your brand photography. Do you have high-resolution images we can use?
+
+Tom: Yes, I'll send over a Dropbox link with our photo library today.
+
+Sarah: Also, we need the product listing page to have filter options — by category, price range, and organic certification level.
+
+Nikhil: Noted. Pooja, can we incorporate that?
+
+Pooja: Yes. I'll add filter components to the product page wireframe. I'll have a revised mockup ready by November 26th.
+
+Sarah: One more thing — we need the site live before December 15th. That's our holiday sale launch.
+
+Nikhil: We can make that work if we finalize designs by November 28th and start development by December 1st.
+
+Decisions:
+1. Homepage hero image will be replaced with client's own photography.
+2. Product listing page will include category, price, and certification filters.
+3. Final design sign-off deadline: November 28, 2026.
+4. Development start: December 1, 2026.
+5. Website launch deadline: December 15, 2026.
+
+Tom: We're also considering adding a blog section. Can that be in scope?
+
+Nikhil: That would be a Phase 2 addition to avoid delaying the launch. We can discuss it after go-live.
+
+Sarah: That works for us.
+
+Nikhil: Great. I'll send a follow-up email summarizing today's decisions and next steps.

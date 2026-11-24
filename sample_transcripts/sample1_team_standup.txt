@@ -1,0 +1,34 @@
+Team Standup Meeting
+Date: November 20, 2026
+Time: 9:00 AM
+Platform: Google Meet
+
+Attendees: Priya Sharma (Tech Lead), Rahul Verma (Backend Dev), Anjali Nair (Frontend Dev), Dev Patel (QA Engineer)
+
+Priya: Good morning everyone. Let's keep this quick. Rahul, what's your update?
+
+Rahul: I finished the user authentication module yesterday. It's ready for review. I'll start working on the payment gateway integration today.
+
+Priya: Great. Anjali?
+
+Anjali: The dashboard UI is 80% done. I need the API endpoints from Rahul to complete the data binding. I should be done by tomorrow.
+
+Priya: Rahul, can you share the API docs with Anjali today?
+
+Rahul: Sure, I'll send them by noon.
+
+Dev: I've completed testing on the registration flow. Found 3 bugs — I'll log them in Jira. Need the auth module from Rahul to start integration testing.
+
+Priya: Decided: We'll freeze all feature additions by November 25th. QA testing sprint begins November 26th.
+
+Priya: Also, our demo to the client is scheduled for December 1st. Everyone must have their modules demo-ready by November 28th.
+
+Dev: Should I prepare test reports for the client demo?
+
+Priya: Yes, please prepare a one-page test summary report by November 27th.
+
+Priya: Any blockers?
+
+Anjali: I'll be blocked until I get the API endpoints.
+
+Priya: Rahul, please prioritize that. Alright, that's it. Have a productive day everyone.
