@@ -429,9 +429,8 @@ with st.sidebar:
 
     env_key = get_api_key()
     if env_key:
-        masked = f"{env_key[:6]}...{env_key[-4:]}"
         st.markdown(
-            f'<div class="status-pill-ok">● API Connected ({masked})</div>',
+            '<div class="status-pill-ok">● API Key Connected (.env)</div>',
             unsafe_allow_html=True,
         )
         custom_api_key = None

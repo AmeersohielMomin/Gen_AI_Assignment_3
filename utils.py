@@ -6,6 +6,7 @@ Handles DeepSeek API calls, response parsing, and document export.
 import os
 import re
 from io import BytesIO
+from pathlib import Path
 from dotenv import load_dotenv
 from openai import OpenAI
 from docx import Document
@@ -16,6 +17,7 @@ from docx.oxml.ns import qn
 
 DEEPSEEK_BASE_URL = "https://api.deepseek.com"
 DEFAULT_MODEL = "deepseek-chat"
+ENV_PATH = Path(__file__).resolve().parent / ".env"
 
 
 # ---------------------------------------------------------------------------
@@ -23,10 +25,13 @@ DEFAULT_MODEL = "deepseek-chat"
 # ---------------------------------------------------------------------------
 
 def get_api_key(override_key: str | None = None) -> str | None:
-    """Load the DeepSeek API key from override or .env / environment."""
+    """Load the DeepSeek API key from override, local .env, or environment."""
     if override_key and override_key.strip():
         return override_key.strip()
-    load_dotenv(override=True)
+    if ENV_PATH.exists():
+        load_dotenv(dotenv_path=ENV_PATH, override=True)
+    else:
+        load_dotenv(override=True)
     return os.getenv("DEEPSEEK_API_KEY")
 
 
